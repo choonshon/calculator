@@ -61,12 +61,10 @@ int div(int a, int b)
 {
 	//TODO implementation
 	return 0;
-<<<<<<< HEAD
+
 }
 int yiyoung(string kim)
 {
 	//testing
 	return 0;
-=======
->>>>>>> 943a94698de6afa258123fb2ed56a4c2fe4b57a4
 }

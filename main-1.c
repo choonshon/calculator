@@ -15,7 +15,7 @@ int main(int argc, char* argv[])
 	int a, b, c;
 	char operator;
 	
-	printf("한글이지롱");
+	printf("한글한글한글르르르르르르");
 	scanf("%d %c %d", &a, &operator, &b);
 	
 	switch (operator)

@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+﻿<<<<<<< HEAD
 ﻿//추가된 주석
 =======
 //추가된 주석
@@ -15,7 +15,7 @@ int main(int argc, char* argv[])
 	int a, b, c;
 	char operator;
 	
-	printf("Please enter a expression");
+	printf("한글이지롱");
 	scanf("%d %c %d", &a, &operator, &b);
 	
 	switch (operator)

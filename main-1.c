@@ -1,3 +1,4 @@
+//추가된 주석
 #include <stdio.h>
  
 int add(int, int);
